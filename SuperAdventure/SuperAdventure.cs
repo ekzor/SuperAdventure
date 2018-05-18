@@ -30,5 +30,9 @@ namespace SuperAdventure
             lblLevel.Text = _player.Level.ToString();
         }
 
+        private void btnEast_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
